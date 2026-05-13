@@ -3,7 +3,6 @@
 ## Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
 | Python (pandas, numpy) | Data generation & wrangling |
 | SQL Server | Exploratory data analysis |
 | Matplotlib, Seaborn | Data visualisation |
@@ -129,4 +128,4 @@ K-Means clustering (k=4) on 6 behavioural features:
 ---
 
 ## Author
-Built as a portfolio project for a Data Analyst role in the OTA/travel domain.
+Shama Kolhar
