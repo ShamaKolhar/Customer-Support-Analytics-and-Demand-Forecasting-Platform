@@ -1,15 +1,12 @@
----
-
 ## Tools & Technologies
 
 | Tool | Purpose |
+|------|---------|
 | Python (pandas, numpy) | Data generation & wrangling |
 | SQL Server | Exploratory data analysis |
 | Matplotlib, Seaborn | Data visualisation |
 | Prophet | Time series forecasting |
 | Scikit-learn (K-Means) | Customer segmentation |
-
----
 
 ## Dataset
 
