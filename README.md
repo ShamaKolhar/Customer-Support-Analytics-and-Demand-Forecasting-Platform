@@ -99,7 +99,9 @@ Using Facebook Prophet on 24 months of historical data (2023–2024):
 - **Key prediction:** December 2025 expected to reach **5,400–5,800 tickets**
 - **Confidence interval:** 95%
 
-![Forecast](forecast.png)
+<img width="2676" height="1766" alt="dashboard" src="https://github.com/user-attachments/assets/eb539e71-33bc-419f-bcc8-576437c2e86b" />
+<img width="800" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/5a766e19-df6d-4e11-829d-44bd5fcb600f" />
+
 
 ---
 
@@ -114,13 +116,15 @@ K-Means clustering (k=4) on 6 behavioural features:
 | Frustrated & Waiting | 21.5% | 34.2 min | 10% | Reduce wait times urgently |
 | High Risk | 16.6% | 22.6 min | 36% | Assign specialist agents |
 
-![Segments](segments.png)
+<img width="700" height="700" alt="3" src="https://github.com/user-attachments/assets/3f47d67b-6d7b-41f2-806e-d385ccea8f80" />
+
 
 ---
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+<img width="2676" height="1766" alt="dashboard" src="https://github.com/user-attachments/assets/6ae4a3e5-541c-4a58-b7a2-80f9f4e7cb2f" />
+
 
 ---
 
